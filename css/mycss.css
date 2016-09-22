@@ -1,0 +1,27 @@
+.profilepic{
+	width: 500px;
+	height:400px;
+	border:10px solid black;
+}
+
+.name{
+	font-family: Arial
+	font-size: 20px;
+}
+
+.navbar-custom .navbar-nav li a:hover {
+	color: #2af6ef;
+	outline: none;
+font-size: 20px;
+}
+
+.navbar-custom .navbar-nav li a {
+    color: #fb7474;
+    font-size: 30px;
+}
+
+header {
+    text-align: center;
+    background: #2f6ba5;
+    color: white;
+}
